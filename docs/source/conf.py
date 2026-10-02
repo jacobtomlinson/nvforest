@@ -51,6 +51,7 @@ extensions = [
     "recommonmark",
     "sphinx_markdown_tables",
     "sphinx_copybutton",
+    # sphinx-llm: generate Markdown pages and llms.txt.
     "sphinx_llm.txt",
 ]
 
